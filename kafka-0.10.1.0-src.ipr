@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.class" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.java" />
+      <entry name="!?*.groovy" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel target="1.7">
+      <module name="api_main" target="1.7" />
+      <module name="api_test" target="1.7" />
+      <module name="clients_main" target="1.7" />
+      <module name="clients_test" target="1.7" />
+      <module name="connect_main" target="1.7" />
+      <module name="connect_test" target="1.7" />
+      <module name="core_main" target="1.7" />
+      <module name="core_scoverage" target="1.7" />
+      <module name="core_test" target="1.7" />
+      <module name="core_testScoverage" target="1.7" />
+      <module name="file_main" target="1.7" />
+      <module name="file_test" target="1.7" />
+      <module name="json_main" target="1.7" />
+      <module name="json_test" target="1.7" />
+      <module name="kafka-0.10.1.0-src-examples_main" target="1.7" />
+      <module name="kafka-0.10.1.0-src-examples_test" target="1.7" />
+      <module name="log4j-appender_main" target="1.7" />
+      <module name="log4j-appender_test" target="1.7" />
+      <module name="runtime_main" target="1.7" />
+      <module name="runtime_test" target="1.7" />
+      <module name="streams-examples_main" target="1.7" />
+      <module name="streams-examples_test" target="1.7" />
+      <module name="streams_main" target="1.7" />
+      <module name="streams_test" target="1.7" />
+      <module name="tools_main" target="1.7" />
+      <module name="tools_test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/clients" />
+            <option value="$PROJECT_DIR$/connect" />
+            <option value="$PROJECT_DIR$/connect/api" />
+            <option value="$PROJECT_DIR$/connect/file" />
+            <option value="$PROJECT_DIR$/connect/json" />
+            <option value="$PROJECT_DIR$/connect/runtime" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/examples" />
+            <option value="$PROJECT_DIR$/log4j-appender" />
+            <option value="$PROJECT_DIR$/streams" />
+            <option value="$PROJECT_DIR$/streams/examples" />
+            <option value="$PROJECT_DIR$/tools" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module filepath="$PROJECT_DIR$/connect/api/api.iml" fileurl="file://$PROJECT_DIR$/connect/api/api.iml" />
+      <module filepath="$PROJECT_DIR$/connect/api/api_main.iml" fileurl="file://$PROJECT_DIR$/connect/api/api_main.iml" />
+      <module filepath="$PROJECT_DIR$/connect/api/api_test.iml" fileurl="file://$PROJECT_DIR$/connect/api/api_test.iml" />
+      <module filepath="$PROJECT_DIR$/clients/clients.iml" fileurl="file://$PROJECT_DIR$/clients/clients.iml" />
+      <module filepath="$PROJECT_DIR$/clients/clients_main.iml" fileurl="file://$PROJECT_DIR$/clients/clients_main.iml" />
+      <module filepath="$PROJECT_DIR$/clients/clients_test.iml" fileurl="file://$PROJECT_DIR$/clients/clients_test.iml" />
+      <module filepath="$PROJECT_DIR$/connect/connect.iml" fileurl="file://$PROJECT_DIR$/connect/connect.iml" />
+      <module filepath="$PROJECT_DIR$/connect/connect_main.iml" fileurl="file://$PROJECT_DIR$/connect/connect_main.iml" />
+      <module filepath="$PROJECT_DIR$/connect/connect_test.iml" fileurl="file://$PROJECT_DIR$/connect/connect_test.iml" />
+      <module filepath="$PROJECT_DIR$/core/core.iml" fileurl="file://$PROJECT_DIR$/core/core.iml" />
+      <module filepath="$PROJECT_DIR$/core/core_main.iml" fileurl="file://$PROJECT_DIR$/core/core_main.iml" />
+      <module filepath="$PROJECT_DIR$/core/core_scoverage.iml" fileurl="file://$PROJECT_DIR$/core/core_scoverage.iml" />
+      <module filepath="$PROJECT_DIR$/core/core_test.iml" fileurl="file://$PROJECT_DIR$/core/core_test.iml" />
+      <module filepath="$PROJECT_DIR$/core/core_testScoverage.iml" fileurl="file://$PROJECT_DIR$/core/core_testScoverage.iml" />
+      <module filepath="$PROJECT_DIR$/connect/file/file.iml" fileurl="file://$PROJECT_DIR$/connect/file/file.iml" />
+      <module filepath="$PROJECT_DIR$/connect/file/file_main.iml" fileurl="file://$PROJECT_DIR$/connect/file/file_main.iml" />
+      <module filepath="$PROJECT_DIR$/connect/file/file_test.iml" fileurl="file://$PROJECT_DIR$/connect/file/file_test.iml" />
+      <module filepath="$PROJECT_DIR$/connect/json/json.iml" fileurl="file://$PROJECT_DIR$/connect/json/json.iml" />
+      <module filepath="$PROJECT_DIR$/connect/json/json_main.iml" fileurl="file://$PROJECT_DIR$/connect/json/json_main.iml" />
+      <module filepath="$PROJECT_DIR$/connect/json/json_test.iml" fileurl="file://$PROJECT_DIR$/connect/json/json_test.iml" />
+      <module filepath="$PROJECT_DIR$/kafka-0.10.1.0-src.iml" fileurl="file://$PROJECT_DIR$/kafka-0.10.1.0-src.iml" />
+      <module filepath="$PROJECT_DIR$/examples/kafka-0.10.1.0-src-examples.iml" fileurl="file://$PROJECT_DIR$/examples/kafka-0.10.1.0-src-examples.iml" />
+      <module filepath="$PROJECT_DIR$/examples/kafka-0.10.1.0-src-examples_main.iml" fileurl="file://$PROJECT_DIR$/examples/kafka-0.10.1.0-src-examples_main.iml" />
+      <module filepath="$PROJECT_DIR$/examples/kafka-0.10.1.0-src-examples_test.iml" fileurl="file://$PROJECT_DIR$/examples/kafka-0.10.1.0-src-examples_test.iml" />
+      <module filepath="$PROJECT_DIR$/log4j-appender/log4j-appender.iml" fileurl="file://$PROJECT_DIR$/log4j-appender/log4j-appender.iml" />
+      <module filepath="$PROJECT_DIR$/log4j-appender/log4j-appender_main.iml" fileurl="file://$PROJECT_DIR$/log4j-appender/log4j-appender_main.iml" />
+      <module filepath="$PROJECT_DIR$/log4j-appender/log4j-appender_test.iml" fileurl="file://$PROJECT_DIR$/log4j-appender/log4j-appender_test.iml" />
+      <module filepath="$PROJECT_DIR$/connect/runtime/runtime.iml" fileurl="file://$PROJECT_DIR$/connect/runtime/runtime.iml" />
+      <module filepath="$PROJECT_DIR$/connect/runtime/runtime_main.iml" fileurl="file://$PROJECT_DIR$/connect/runtime/runtime_main.iml" />
+      <module filepath="$PROJECT_DIR$/connect/runtime/runtime_test.iml" fileurl="file://$PROJECT_DIR$/connect/runtime/runtime_test.iml" />
+      <module filepath="$PROJECT_DIR$/streams/streams.iml" fileurl="file://$PROJECT_DIR$/streams/streams.iml" />
+      <module filepath="$PROJECT_DIR$/streams/examples/streams-examples.iml" fileurl="file://$PROJECT_DIR$/streams/examples/streams-examples.iml" />
+      <module filepath="$PROJECT_DIR$/streams/examples/streams-examples_main.iml" fileurl="file://$PROJECT_DIR$/streams/examples/streams-examples_main.iml" />
+      <module filepath="$PROJECT_DIR$/streams/examples/streams-examples_test.iml" fileurl="file://$PROJECT_DIR$/streams/examples/streams-examples_test.iml" />
+      <module filepath="$PROJECT_DIR$/streams/streams_main.iml" fileurl="file://$PROJECT_DIR$/streams/streams_main.iml" />
+      <module filepath="$PROJECT_DIR$/streams/streams_test.iml" fileurl="file://$PROJECT_DIR$/streams/streams_test.iml" />
+      <module filepath="$PROJECT_DIR$/tools/tools.iml" fileurl="file://$PROJECT_DIR$/tools/tools.iml" />
+      <module filepath="$PROJECT_DIR$/tools/tools_main.iml" fileurl="file://$PROJECT_DIR$/tools/tools_main.iml" />
+      <module filepath="$PROJECT_DIR$/tools/tools_test.iml" fileurl="file://$PROJECT_DIR$/tools/tools_test.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="libraryTable">
+    <library name="scala-sdk-2.10.6" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.10.6/9b15174852f5b6bb1edbf303d5722286a0a54011/scala-compiler-2.10.6.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.6/421989aa8f95a05a4f894630aad96b8c7b828732/scala-library-2.10.6.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.10.6/3259f3df0f166f017ef5b2d385445808398c316c/scala-reflect-2.10.6.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
